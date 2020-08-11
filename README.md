@@ -1,5 +1,6 @@
 # Poké-Engine
 Pokémon clone made with HTML, CSS and Javascript.
+[![Run on Repl.it](https://repl.it/badge/github/Ravens0610/Poke-Engine)](https://repl.it/github/Ravens0610/Poke-Engine)
 
 # Demo
 [Click here](https://pokengine.herokuapp.com/)
